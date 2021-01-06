@@ -21,6 +21,7 @@ h3 {
 .guarantee {
   line-height: 1.9em;
   font-style: italic;
+  font-size: 130%;
   font-family: Georgia, Times, serif;
   color: #4444444;
   border-top-left-radius: 30px;
