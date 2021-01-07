@@ -15,8 +15,8 @@ h2 {
   font-size: 130%;
   color: #007e7e;
 }
-h3 {
-  margin-left: 40px;
+#elixirs h3 {
+  color: #d12c47;
 }
 .guarantee {
   line-height: 1.9em;
@@ -41,12 +41,12 @@ h3 {
   border-color: #007e7e;
   width: 300px;
 
-  padding-right: 20px;
-  padding-bottom: 20px;
-  padding-left: 20px;
-  margin-left: 20px;
-  text-align: center;
-  float: right;
+padding-right: 20px;
+padding-bottom: 20px;
+padding-left: 20px;
+margin-left: 20px;
+text-align: center;
+float: right;
 }
 #elixirs a:link {
   color: #007e7e;
